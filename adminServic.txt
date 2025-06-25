@@ -1,7 +1,7 @@
 add and remove users
 change roles
 manage database
-clsoing the database connection
+clsoing the mysql connection
 change 1
 change 2 in database
 
